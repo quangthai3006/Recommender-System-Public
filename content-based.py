@@ -31,10 +31,10 @@ def create_connection(host_name, user_name, user_password, db_name):
     return connection
 
 # Thông tin kết nối
-host_name = "127.0.0.1"
-user_name = "root"
-user_password = "thai300622"
-db_name = "thaipc"
+host_name = ""
+user_name = ""
+user_password = ""
+db_name = ""
 
 # Tạo kết nối
 connection = create_connection(host_name, user_name, user_password, db_name)
