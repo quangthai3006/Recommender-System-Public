@@ -33,7 +33,7 @@ def create_connection(host_name, user_name, user_password, db_name):
 # Thông tin kết nối
 host_name = ""
 user_name = ""
-user_password = ""
+user_password = "123456"
 db_name = ""
 
 # Tạo kết nối
